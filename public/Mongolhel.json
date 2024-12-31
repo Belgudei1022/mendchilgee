@@ -1,0 +1,217 @@
+{
+    "fontName": "MongolianBichig",
+    "fontVersion": "1.0",
+    "fontAuthor": "YourName",
+    "characters": {
+        "А": {
+            "unicode": "U+0410",
+            "width": 600,
+            "height": 700,
+            "path": "M10,10 L100,200 ..."
+        },
+        "Б": {
+            "unicode": "U+0411",
+            "width": 600,
+            "height": 700,
+            "path": "M20,20 L150,300 ..."
+        },
+        "В": {
+            "unicode": "U+0412",
+            "width": 620,
+            "height": 700,
+            "path": "M15,30 L120,250 ..."
+        },
+        "Г": {
+            "unicode": "U+0413",
+            "width": 540,
+            "height": 700,
+            "path": "M5,15 L100,220 ..."
+        },
+        "Д": {
+            "unicode": "U+0414",
+            "width": 680,
+            "height": 720,
+            "path": "M25,40 L130,280 ..."
+        },
+        "Е": {
+            "unicode": "U+0415",
+            "width": 600,
+            "height": 700,
+            "path": "M10,10 L100,200 ..."
+        },
+        "Ё": {
+            "unicode": "U+0401",
+            "width": 600,
+            "height": 700,
+            "path": "M20,30 L150,270 ..."
+        },
+        "Ж": {
+            "unicode": "U+0416",
+            "width": 800,
+            "height": 700,
+            "path": "M30,50 L200,300 ..."
+        },
+        "З": {
+            "unicode": "U+0417",
+            "width": 620,
+            "height": 700,
+            "path": "M15,20 L110,240 ..."
+        },
+        "И": {
+            "unicode": "U+0418",
+            "width": 640,
+            "height": 700,
+            "path": "M25,35 L150,290 ..."
+        },
+        "Й": {
+            "unicode": "U+0419",
+            "width": 640,
+            "height": 700,
+            "path": "M25,35 L150,290 ..."
+        },
+        "К": {
+            "unicode": "U+041A",
+            "width": 620,
+            "height": 700,
+            "path": "M20,40 L140,270 ..."
+        },
+        "Л": {
+            "unicode": "U+041B",
+            "width": 660,
+            "height": 700,
+            "path": "M15,25 L120,250 ..."
+        },
+        "М": {
+            "unicode": "U+041C",
+            "width": 680,
+            "height": 700,
+            "path": "M30,30 L200,280 ..."
+        },
+        "Н": {
+            "unicode": "U+041D",
+            "width": 620,
+            "height": 700,
+            "path": "M20,35 L140,260 ..."
+        },
+        "О": {
+            "unicode": "U+041E",
+            "width": 680,
+            "height": 700,
+            "path": "M15,20 L110,240 ..."
+        },
+        "Ө": {
+            "unicode": "U+04E8",
+            "width": 680,
+            "height": 700,
+            "path": "M20,40 L150,270 ..."
+        },
+        "П": {
+            "unicode": "U+041F",
+            "width": 620,
+            "height": 700,
+            "path": "M25,50 L130,280 ..."
+        },
+        "Р": {
+            "unicode": "U+0420",
+            "width": 620,
+            "height": 700,
+            "path": "M15,30 L120,250 ..."
+        },
+        "С": {
+            "unicode": "U+0421",
+            "width": 680,
+            "height": 700,
+            "path": "M10,20 L100,230 ..."
+        },
+        "Т": {
+            "unicode": "U+0422",
+            "width": 620,
+            "height": 700,
+            "path": "M20,25 L130,270 ..."
+        },
+        "У": {
+            "unicode": "U+0423",
+            "width": 620,
+            "height": 700,
+            "path": "M25,30 L140,280 ..."
+        },
+        "Ү": {
+            "unicode": "U+04AE",
+            "width": 620,
+            "height": 700,
+            "path": "M30,40 L150,290 ..."
+        },
+        "Ф": {
+            "unicode": "U+0424",
+            "width": 720,
+            "height": 700,
+            "path": "M15,20 L110,240 ..."
+        },
+        "Х": {
+            "unicode": "U+0425",
+            "width": 620,
+            "height": 700,
+            "path": "M20,30 L130,250 ..."
+        },
+        "Ц": {
+            "unicode": "U+0426",
+            "width": 680,
+            "height": 700,
+            "path": "M15,25 L120,250 ..."
+        },
+        "Ч": {
+            "unicode": "U+0427",
+            "width": 640,
+            "height": 700,
+            "path": "M30,50 L200,300 ..."
+        },
+        "Ш": {
+            "unicode": "U+0428",
+            "width": 800,
+            "height": 700,
+            "path": "M20,40 L140,270 ..."
+        },
+        "Щ": {
+            "unicode": "U+0429",
+            "width": 820,
+            "height": 700,
+            "path": "M25,35 L150,290 ..."
+        },
+        "Ъ": {
+            "unicode": "U+042A",
+            "width": 620,
+            "height": 700,
+            "path": "M15,20 L110,240 ..."
+        },
+        "Ы": {
+            "unicode": "U+042B",
+            "width": 680,
+            "height": 700,
+            "path": "M30,40 L150,270 ..."
+        },
+        "Ь": {
+            "unicode": "U+042C",
+            "width": 600,
+            "height": 700,
+            "path": "M10,10 L100,200 ..."
+        },
+        "Э": {
+            "unicode": "U+042D",
+            "width": 680,
+            "height": 700,
+            "path": "M20,30 L150,270 ..."
+        },
+        "Ю": {
+            "unicode": "U+042E",
+            "width": 800,
+            "height": 700,
+            "path": "M25,40 L130,280 ..."
+        },
+        "Я": {
+            "unicode": "U+042F",
+            "width": 680,
+            "height": 700,
+            "path": "M20,40 L150,270 ..."
+        }
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "fontName": "MongolianBichig",
+    "fontVersion": "1.0",
+    "fontAuthor": "YourName",
+    "characters": {
+        "А": {
+            "unicode": "U+0410",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Б": {
+            "unicode": "U+0411",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "В": {
+            "unicode": "U+0412",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Г": {
+            "unicode": "U+0413",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Д": {
+            "unicode": "U+0414",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Е": {
+            "unicode": "U+0415",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ё": {
+            "unicode": "U+0401",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ж": {
+            "unicode": "U+0416",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "З": {
+            "unicode": "U+0417",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "И": {
+            "unicode": "U+0418",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Й": {
+            "unicode": "U+0419",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "К": {
+            "unicode": "U+041A",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Л": {
+            "unicode": "U+041B",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "М": {
+            "unicode": "U+041C",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Н": {
+            "unicode": "U+041D",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "О": {
+            "unicode": "U+041E",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ө": {
+            "unicode": "U+04E8",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "П": {
+            "unicode": "U+041F",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Р": {
+            "unicode": "U+0420",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "С": {
+            "unicode": "U+0421",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Т": {
+            "unicode": "U+0422",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "У": {
+            "unicode": "U+0423",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ү": {
+            "unicode": "U+04AE",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ф": {
+            "unicode": "U+0424",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Х": {
+            "unicode": "U+0425",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ц": {
+            "unicode": "U+0426",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ч": {
+            "unicode": "U+0427",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ш": {
+            "unicode": "U+0428",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Щ": {
+            "unicode": "U+0429",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ъ": {
+            "unicode": "U+042A",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ы": {
+            "unicode": "U+042B",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ь": {
+            "unicode": "U+042C",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Э": {
+            "unicode": "U+042D",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Ю": {
+            "unicode": "U+042E",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        },
+        "Я": {
+            "unicode": "U+042F",
+            "width": 600,
+            "height": 700,
+            "path": "ExamplePathData"
+        }
+    }
+}
